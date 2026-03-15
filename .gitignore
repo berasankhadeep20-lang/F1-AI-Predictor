@@ -1,0 +1,17 @@
+# FastF1 cache
+cache/
+
+# Data folders
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model artifacts (optional)
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
